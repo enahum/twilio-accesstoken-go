@@ -1,7 +1,7 @@
 package accesstoken
 
 import (
-	"github.com/ZBoxApp/twilio-accesstoken-go/jwt"
+	"github.com/mattermost/twilio-accesstoken-go/jwt"
 	"testing"
 )
 

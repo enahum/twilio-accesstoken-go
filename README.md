@@ -11,7 +11,7 @@ This is basically a port of the AccessToken portion of: https://github.com/twili
 
 Install the package
 
-go get github.com/ZBoxApp/twilio-accesstoken-go
+go get github.com/mattermost/twilio-accesstoken-go
 
 ### Sample
 Sample app using credentials stored in your env
@@ -22,7 +22,7 @@ Sample app using credentials stored in your env
     import (
 	    "encoding/json"
 	    "fmt"
-	    "github.com/ZBoxApp/twilio-accesstoken-go"
+	    "github.com/mattermost/twilio-accesstoken-go"
 	    "net/http"
 	    "os"
     )

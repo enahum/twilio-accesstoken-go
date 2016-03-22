@@ -2,7 +2,7 @@ package accesstoken
 
 import (
 	"fmt"
-	"github.com/ZBoxApp/twilio-accesstoken-go/jwt"
+	"github.com/mattermost/twilio-accesstoken-go/jwt"
 	"time"
 )
 
